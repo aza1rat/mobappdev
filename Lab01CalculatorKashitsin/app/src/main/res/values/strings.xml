@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab02-Calculator Kashitsin</string>
+    <string name="str_A">Значение A:</string>
+    <string name="str_B">Значение B:</string>
+    <string name="str_R">Результат:</string>
+    <string name="str_M">Значение C:</string>
+    <string name="str_Add">Сложение</string>
+    <string name="str_Sub">Вычитание</string>
+    <string name="str_Mul">Умножение</string>
+    <string name="str_Div">Деление</string>
+    <string name="str_Pow">Возведение</string>
+    <string name="str_Sin">Sin</string>
+    <string name="str_Cos">Cos</string>
+    <string name="str_Tan">Tg</string>
+    <string name="str_Sqrt">Корень</string>
+</resources>
